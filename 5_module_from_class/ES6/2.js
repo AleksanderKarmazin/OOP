@@ -109,6 +109,6 @@ class Customer extends User {
 const customer = new Customer(
     "Ali - Castomer", 
     "AlyLast - Castomer",
-     "base"
+    "base"
      )
 console.log(customer);
